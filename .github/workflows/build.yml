@@ -48,7 +48,7 @@ jobs:
             libxcb-xkb-dev \
             libxcb-xrm0 \
             libxcb-xrm-dev \
-            libprocps-dev
+            libprocps8-dev
 
       - name: Install dependencies
         run: npm install
